@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gabot.pro	TRUE	/	FALSE	1999999999	csrf_cookie	4603e45992c84315a1808bca588eb078
+gabot.pro	TRUE	/	FALSE	1999999999	stackpost_session	p64ugsknhsa0mispc3jtutq8e3qmcsth
+gabot.pro	TRUE	/	FALSE	1999999999	uid	deleted
+gabot.pro	TRUE	/	FALSE	1999999999	team_id	deleted
+gabot.pro	TRUE	/	FALSE	1999999999	SameSite	Lax
+
